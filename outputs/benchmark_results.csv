@@ -1,0 +1,4 @@
+variant,accuracy,latency_ms_p50,memory_mb,flops_per_inference,energy_per_1000_wh,co2_per_1000_g,accuracy_per_wh
+full,0.918,142.0,419.617,22000000000,0.003056,0.001,300.44
+compact,0.879,78.0,251.77,17000000000,0.002361,0.0008,372.28
+quantised,0.863,41.0,62.943,17000000000,0.000944,0.0003,913.76
